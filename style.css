@@ -1,0 +1,23 @@
+body{
+    background-color: #d7621a;
+}
+h1{
+    font-size: 50px;
+    color:#520647;
+    text-align: center;
+    border: 12px solid #ffaa67;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+p{
+    font-size: 37px;
+    margin-left: 60px;
+    color:#2c1001;
+    text-align: justify;
+}
+img{
+    width: 517px;
+    height: 517px;
+    margin: 9px;
+    margin-left: 80px;
+}
